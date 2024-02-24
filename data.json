@@ -1,0 +1,42 @@
+{
+    "contact_info" :{
+    "name" : "SURESH S",
+    "email" : "suresh361994@gmail.com",
+    "mobile_no" : "8610771527"
+    },
+    "education_qualification" : {
+      "degree" : "BE.EEE - 67%",
+      "12 std" : "State board - 67%"
+    },
+    "Technical_skills" : {
+      "computer_lang" : ["C","C++","JAVA","Python"],
+      "OS" : ["Windows","Linux"],
+      "Other" :"MS_EXCEL"
+    },
+    "Professional_Experiance" : {
+      "Company1":{
+        "name" : "Computer Age Management Services",
+        "year" : "6+",
+        "Designation" : "PO"
+      },
+      "Company2":{
+        "name" : "Globe Tier Infotech Pvt ltd",
+        "year" : "3 months",
+        "Designation" : "Application Support Engineer L1"
+      }
+    },
+    "Personel_profile" : {
+      "Full Name" : "Suresh S",
+      "Gender" : "Male",
+      "Languages known" : ["Tamil", "English"],
+      "Hobbies" : ["Watching Movies", "Listening Songs"],
+      "Address" : {
+          "door no" : "40/71",
+          "Street" : "South Street Main Road", 
+          "city": "Aruppukottai",
+          "Pincode" : 626101
+    }
+  
+  }
+  
+  }
